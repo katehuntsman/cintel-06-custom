@@ -1,7 +1,6 @@
+cufflinks
+faicons
 pandas
-matplotlib
-shiny
-seaborn
-pathlib
-shinywidgets
 plotly
+shinywidgets
+yfinance
