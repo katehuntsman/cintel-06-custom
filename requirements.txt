@@ -1,6 +1,5 @@
-cufflinks
-faicons
 pandas
+requests
 plotly
-shinywidgets
-yfinance
+shiny
+faicons
